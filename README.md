@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cesar2911
 - 👀 I’m interested in Web/App development.
-- 🌱 I’m currently learning Python. I have worked with Java, HTML, CSS and C.
+- 🌱 I’m currently learning C++. I have worked with Python, Java, HTML, CSS and C.
 - 💞️ I’m looking to collaborate on anything that'll help me grow and get better.
 - 📫 How to reach me: https://www.linkedin.com/in/c%C3%A9sar-nazario-1a2b1b155
 
